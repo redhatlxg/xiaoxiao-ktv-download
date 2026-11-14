@@ -1,9 +1,10 @@
 {
-  "available": false,
-  "version": "",
-  "versionCode": 0,
-  "apkUrl": "",
-  "apkName": "",
-  "sha256": "",
-  "releaseNotes": "暂无经过验证的正式安装包。"
+  "available": true,
+  "version": "1.6.3",
+  "versionCode": 47,
+  "title": "晓晓呀 KTV v1.6.3",
+  "apkUrl": "https://github.com/redhatlxg/xiaoxiao-ktv-download/releases/download/v1.6.3/xiaoxiao-ktv-release.apk",
+  "apkName": "xiaoxiao-ktv-release.apk",
+  "sha256": "6afbb5754a3efa70e1857f6fc73e06f33c10d1cc33922866f5d8df4f51aa8fa5",
+  "releaseNotes": "晓晓呀 KTV v1.6.3 正式签名版。已通过 APK 签名校验和非 Debuggable 检查。SHA-256: 6afbb5754a3efa70e1857f6fc73e06f33c10d1cc33922866f5d8df4f51aa8fa5"
 }
