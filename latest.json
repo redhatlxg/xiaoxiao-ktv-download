@@ -1,12 +1,13 @@
 {
   "available": true,
-  "version": "1.6.9",
-  "versionCode": 53,
-  "title": "晓晓呀 KTV v1.6.9",
-  "apkUrl": "https://github.com/redhatlxg/xiaoxiao-ktv-download/releases/download/v1.6.9/xiaoxiao-ktv-release.apk",
+  "version": "1.7.0",
+  "versionCode": 55,
+  "title": "晓晓呀 KTV v1.7.0",
+  "apkUrl": "https://github.com/redhatlxg/xiaoxiao-ktv-download/releases/download/v1.7.0/xiaoxiao-ktv-release.apk",
   "apkName": "xiaoxiao-ktv-release.apk",
-  "sha256": "ba63925ee8a76c818334aa54a14f2c0856198c811cef41e6a511053657049557",
-  "releaseNotes": "晓晓呀 KTV v1.6.9 离线短码正式版。含电视端和安卓手机授权助手。电视端签名已与 v1.6.8 原正式版证书核对一致。SHA-256: ba63925ee8a76c818334aa54a14f2c0856198c811cef41e6a511053657049557",
-  "mobileApkUrl": "https://github.com/redhatlxg/xiaoxiao-ktv-download/releases/download/v1.6.9/xiaoxiao-ktv-mobile-license.apk",
-  "mobileApkName": "xiaoxiao-ktv-mobile-license.apk"
+  "sha256": "3308c1fa8152d2fe202c1e69cee8fb535b0bf5e6ccd06c867d5232a41043e088",
+  "mobileApkUrl": "https://github.com/redhatlxg/xiaoxiao-ktv-download/releases/download/v1.7.0/xiaoxiao-ktv-mobile-license.apk",
+  "mobileApkName": "xiaoxiao-ktv-mobile-license.apk",
+  "mobileApkSha256": "767044ccc04055116a9db64369267b9352ddb35b0e92a21018e66fad11d5728a",
+  "releaseNotes": "晓晓呀 KTV v1.7.0 离线短码正式签名版。电视端 versionCode 55。电视端和手机授权工具均已通过 APK 签名校验，并与 v1.6.8 正式版证书核对一致。源码提交：832206a53d4dc3afb939bcf1d0428c8302868d3f。电视端 SHA-256：3308c1fa8152d2fe202c1e69cee8fb535b0bf5e6ccd06c867d5232a41043e088。手机授权工具 SHA-256：767044ccc04055116a9db64369267b9352ddb35b0e92a21018e66fad11d5728a。"
 }
