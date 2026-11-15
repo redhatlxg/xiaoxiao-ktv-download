@@ -1,10 +1,10 @@
 {
   "available": true,
-  "version": "1.6.7",
-  "versionCode": 51,
-  "title": "晓晓呀 KTV v1.6.7",
-  "apkUrl": "https://github.com/redhatlxg/xiaoxiao-ktv-download/releases/download/v1.6.7/xiaoxiao-ktv-release.apk",
+  "version": "1.6.8",
+  "versionCode": 52,
+  "title": "晓晓呀 KTV v1.6.8",
+  "apkUrl": "https://github.com/redhatlxg/xiaoxiao-ktv-download/releases/download/v1.6.8/xiaoxiao-ktv-release.apk",
   "apkName": "xiaoxiao-ktv-release.apk",
-  "sha256": "42d58477bb87c3fc1ade3a155ca2dd47f719d7307e51babddf0a3b108ae7c751",
-  "releaseNotes": "晓晓呀 KTV v1.6.7 正式签名版。已通过 APK 签名校验和非 Debuggable 检查。SHA-256: 42d58477bb87c3fc1ade3a155ca2dd47f719d7307e51babddf0a3b108ae7c751"
+  "sha256": "3ee668e7c5efeef0074736bd9ae2bac67adf529594d14211f89c4d033e8986a7",
+  "releaseNotes": "晓晓呀 KTV v1.6.8 正式签名版。已通过 APK 签名校验和非 Debuggable 检查。SHA-256: 3ee668e7c5efeef0074736bd9ae2bac67adf529594d14211f89c4d033e8986a7"
 }
