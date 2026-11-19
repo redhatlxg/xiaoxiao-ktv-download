@@ -1,13 +1,13 @@
 {
   "available": true,
-  "version": "1.7.5",
-  "versionCode": 60,
-  "title": "晓晓呀 KTV v1.7.5",
-  "apkUrl": "https://github.com/redhatlxg/xiaoxiao-ktv-download/releases/download/v1.7.5/xiaoxiao-ktv-release.apk",
+  "version": "1.7.6",
+  "versionCode": 61,
+  "title": "晓晓呀 KTV v1.7.6",
+  "apkUrl": "https://github.com/redhatlxg/xiaoxiao-ktv-download/releases/download/v1.7.6/xiaoxiao-ktv-release.apk",
   "apkName": "xiaoxiao-ktv-release.apk",
-  "sha256": "def39a287aa6f87b48bd775fa5cd05685b81538ec241d9fbb7c1df267fc3680f",
-  "mobileApkUrl": "https://github.com/redhatlxg/xiaoxiao-ktv-download/releases/download/v1.7.5/xiaoxiao-ktv-mobile-license.apk",
+  "sha256": "6329cceab8c1c0a61800225e1316312581519ce267a28a10bfae9cc69e12dec8",
+  "mobileApkUrl": "https://github.com/redhatlxg/xiaoxiao-ktv-download/releases/download/v1.7.6/xiaoxiao-ktv-mobile-license.apk",
   "mobileApkName": "xiaoxiao-ktv-mobile-license.apk",
-  "mobileApkSha256": "b46e91f0e29882d1fc189a2815d29c1c9a482be65ca15934b71401a7773bda38",
-  "releaseNotes": "晓晓呀 KTV v1.7.5 离线短码正式签名版。电视端 versionCode 60。电视端和手机授权工具均已通过 APK 签名校验，并与 v1.6.8 正式版证书核对一致。源码提交：7fffe7a90e306ea99e6e3907e9e83a03f2971f42。电视端 SHA-256：def39a287aa6f87b48bd775fa5cd05685b81538ec241d9fbb7c1df267fc3680f。手机授权工具 SHA-256：b46e91f0e29882d1fc189a2815d29c1c9a482be65ca15934b71401a7773bda38。"
+  "mobileApkSha256": "e48ea88ce9094c01d032655868366b58b780e9325bf514759d1ae25485650b97",
+  "releaseNotes": "晓晓呀 KTV v1.7.6 离线短码正式签名版。电视端 versionCode 61。电视端和手机授权工具均已通过 APK 签名校验，并与 v1.6.8 正式版证书核对一致。源码提交：e88a25eb8202f8fcd39a9debf1383d70e652b66a。电视端 SHA-256：6329cceab8c1c0a61800225e1316312581519ce267a28a10bfae9cc69e12dec8。手机授权工具 SHA-256：e48ea88ce9094c01d032655868366b58b780e9325bf514759d1ae25485650b97。"
 }
